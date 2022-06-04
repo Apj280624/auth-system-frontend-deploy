@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/auth-system-frontend-deploy/static/css/main.83216d16.css",
-    "main.js": "/auth-system-frontend-deploy/static/js/main.d51173d9.js",
+    "main.js": "/auth-system-frontend-deploy/static/js/main.a10685cf.js",
     "index.html": "/auth-system-frontend-deploy/index.html",
     "main.83216d16.css.map": "/auth-system-frontend-deploy/static/css/main.83216d16.css.map",
-    "main.d51173d9.js.map": "/auth-system-frontend-deploy/static/js/main.d51173d9.js.map"
+    "main.a10685cf.js.map": "/auth-system-frontend-deploy/static/js/main.a10685cf.js.map"
   },
   "entrypoints": [
     "static/css/main.83216d16.css",
-    "static/js/main.d51173d9.js"
+    "static/js/main.a10685cf.js"
   ]
 }
