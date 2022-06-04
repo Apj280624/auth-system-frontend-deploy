@@ -35,7 +35,7 @@ function Register() {
     async function registerUser() {
       try {
         const response = await axios.post(
-          "http://localhost:4000/register",
+          "https://auth-system-prac-server.herokuapp.com/register",
           userCredentials
         );
 

@@ -35,7 +35,7 @@ function Login() {
     async function loginUser() {
       try {
         const response = await axios.post(
-          "http://localhost:4000/login",
+          "https://auth-system-prac-server.herokuapp.com/login",
           userCredentials
         );
         console.log(response);
